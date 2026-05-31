@@ -14,7 +14,7 @@
 
 
 ## 🧠 My Focus Areas
-- AL/ ML Development
+- AI/ ML Development
 
 
 ## 📊 GitHub Stats & Trophies
