@@ -23,22 +23,12 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Aakash-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Aakash-Mishra&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="49%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Aakash-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dev-Aakash-Mishra's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Aakash-Mishra&theme=tokyonight&hide_border=true" alt="Dev-Aakash-Mishra's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Dev-Aakash-Mishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Aakash-Mishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Aakash Kumar Mishra's GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
