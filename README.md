@@ -23,13 +23,24 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Aakash-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Dev-Aakash-Mishra's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Dev-Aakash-Mishra&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Dev-Aakash-Mishra's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dev-Aakash-Mishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Aakash Kumar Mishra's GitHub Trophies" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Aakash-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Dev-Aakash-Mishra&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Dev-Aakash-Mishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ## 🛠️ Languages & Tools
 
